@@ -19,12 +19,12 @@ Descripción breve de la aplicación y su propósito.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/DOMINGUEZLEONARDO/challenge-techsed
    ```
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-del-repositorio
+   cd challenge-techsed
    ```
 
 3. Instala las dependencias:
